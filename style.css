@@ -96,4 +96,9 @@ footer {
     margin-bottom: 20px;
     width: 80%;
   }
+  .icon {
+    font-size: 30px;
+    width: 500px;
+    color: white;
+  }
 }
